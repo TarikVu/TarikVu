@@ -1,9 +1,12 @@
 # :coffee: About Me
+[![Static Badge](https://img.shields.io/badge/My%20LinkedIn-0072b1?logo=linkedin)](https://www.linkedin.com/in/tarik-vu-020043210) [![Static Badge](https://img.shields.io/badge/My_Resume-FFFFFF?logo=microsoftword&logoColor=212121)](https://docs.google.com/document/d/11ZFGZamTNnfn_sJV2pvoaZ9XD4ddTv9N/edit?usp=sharing&ouid=113768620317126226341&rtpof=true&sd=true)
+
+
 - U of U Alumni - _Bachelors of CS_ 🎓
 - Software Engineer 💻
 - Music and Physical Fitness enthusiast 🎵🏃
 
-[LinkedIn](https://www.linkedin.com/in/tarik-vu-020043210/)
+
 
 
 ## 📊 Github Stats
