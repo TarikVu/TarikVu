@@ -3,6 +3,8 @@
 - Software Engineer 💻
 - Music and Physical Fitness enthusiast 🎵🏃
 
+[LinkedIn](https://www.linkedin.com/in/tarik-vu-020043210/)
+
 
 ## 📊 Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarikVu\&layout=compact\&theme=tokyonight\&title_color=f8f8f8)
