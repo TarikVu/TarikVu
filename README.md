@@ -1,6 +1,6 @@
 # :coffee: About Me
 - U of U Alumni - _Bachelors of CS_ 🎓
-- Software Engineer 💻
+- Aspiring Software Engineer 💻
 - Music and Physical Fitness enthusiast 🎵🏃
 
 ### My Links ⬇️
