@@ -2,7 +2,7 @@
 - U of U Alumni - _Bachelors of CS_ 🎓
 - Aspiring Software Engineer 💻
 - Music and Physical Fitness enthusiast 🎵🏃
-- Current Project (Pre-Alpha): [AIPlaylistPal](https://github.com/TarikVu/ai_playlist_pal)
+- Current Project (Pre-Alpha): [ai_playlist_pal](https://github.com/TarikVu/ai_playlist_pal)
 
 ### My Links ⬇️
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin)](https://www.linkedin.com/in/tarik-vu-020043210) [![Static Badge](https://img.shields.io/badge/Resume-FFFFFF?logo=microsoftword&logoColor=212121)](https://drive.google.com/file/d/1TXRFTCfWAhsASrpsQ0ptwJ2bmv-3whd2/view?usp=sharing) 
