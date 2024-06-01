@@ -1,4 +1,4 @@
-# :coffee: About Me
+# :coffee: About Me:
 - U of U Alumni - _Bachelors of CS_ 🎓
 - Aspiring Software Engineer 💻
 - Music and Physical Fitness enthusiast 🎵🏃
