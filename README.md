@@ -2,6 +2,7 @@
 - U of U Alumni - _Bachelors of CS_ 🎓
 - Aspiring Software Engineer 💻
 - Music and Physical Fitness enthusiast 🎵🏃
+- Current Project: [**TaskBin**](https://github.com/TarikVu/TaskBin) 
 
 ### My Links ⬇️
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin)](https://www.linkedin.com/in/tarik-vu-020043210) 
