@@ -1,8 +1,7 @@
 # :coffee: About Me
 - U of U Alumni - _Bachelors of CS_ 🎓
 - Aspiring Software Engineer 💻
-- Music and Physical Fitness enthusiast 🎵🏃
-- Current Project: [**FlexPoint**](https://github.com/TarikVu/FlexPoint)
+- Music and Physical Fitness enthusiast 🎵🏃 
 
 ### My Links ⬇️
 [![Static Badge](https://img.shields.io/badge/LinkedIn-0072b1?logo=linkedin)](https://www.linkedin.com/in/tarik-vu-020043210) 
