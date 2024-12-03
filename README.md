@@ -13,8 +13,7 @@
 
 
 ## 📊 Github Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarikVu\&layout=compact\&theme=tokyonight\&title_color=f8f8f8)
-
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarikVu\&layout=compact\&theme=tokyonight\&title_color=f8f8f8)--->
 [![Tarik's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarikVu\&custom_title=My%20Stats\&title_color=f8f8f8\&show_icons=true\&theme=tokyonight\&rank_icon=github\&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 
